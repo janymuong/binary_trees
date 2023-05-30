@@ -57,4 +57,4 @@ gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 0-main.c 0-binary_tree_n
 ## Authors:
 You can find the developers/contributors to this project in the [AUTHORS](./AUTHORS) file.
 
-## [license](./LICENSE)
+## [LICENSE](./LICENSE)
