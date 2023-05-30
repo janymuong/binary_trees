@@ -53,3 +53,8 @@ gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 0-main.c 0-binary_tree_n
 >> **`Sorting`**: Binary trees can be used to efficiently sort data by inserting elements into the tree and then performing an in-order traversal to retrieve them in sorted order.  
 >> **`Hierarchical Structures`**: Binary trees are used to represent hierarchical structures like file systems, organization charts, and family trees.  
 >> **`Expression Evaluation`**: Binary expression trees are used to parse and evaluate mathematical expressions.
+
+## Authors:
+You can find the developers/contributors to this project in the [AUTHORS](./AUTHORS) file.
+
+## [license](./LICENSE)
