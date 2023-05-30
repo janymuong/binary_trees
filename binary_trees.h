@@ -54,8 +54,6 @@ binary_tree_t *binary_tree_sibling(binary_tree_t *node);
 binary_tree_t *binary_tree_uncle(binary_tree_t *node);
 
 /* visualization functions */
-static int print_t(const binary_tree_t *tree, int offset, int depth, char **s);
 void binary_tree_print(const binary_tree_t *tree);
-static size_t _height(const binary_tree_t *tree);
 
 #endif /* DSA: binary trees */
