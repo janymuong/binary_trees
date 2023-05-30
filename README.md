@@ -1,7 +1,8 @@
 # Binary Trees
 > `C`, `Binary Trees`, `Algorithms & Data Structures`  
 
-`Binary Trees` are data structures consisting of nodes connected through edges. Each node in a binary tree can have at most two child nodes, referred to as the left child and the right child. This project could potentially be extended to cover `Binary Heap`, `Binary Search Trees`, and `AVL Tree`.
+`Binary Trees` are data structures consisting of nodes connected through edges. Each node in a binary tree can have at most two child nodes, referred to as the left child and the right child.  
+This project could potentially be extended to cover `Binary Heap`, `Binary Search Trees`, and `AVL Tree`.
 
 ## Features and Characteristics
 
@@ -42,7 +43,7 @@ typedef struct binary_tree_s binary_tree_t;
 ## Applications  
 > **Note**  
 > Binary Trees have various applications, including:  
->> **Searching**: Binary search trees offer efficient searching capabilities, as they allow for quick lookup and retrieval of values.  
->> **Sorting**: Binary trees can be used to efficiently sort data by inserting elements into the tree and then performing an in-order traversal to retrieve them in sorted order.  
->> **Hierarchical Structures**: Binary trees are used to represent hierarchical structures like file systems, organization charts, and family trees.  
->> **Expression Evaluation**: Binary expression trees are used to parse and evaluate mathematical expressions.
+>> **`Searching`**: Binary search trees offer efficient searching capabilities, as they allow for quick lookup and retrieval of values.  
+>> **`Sorting`**: Binary trees can be used to efficiently sort data by inserting elements into the tree and then performing an in-order traversal to retrieve them in sorted order.  
+>> **`Hierarchical Structures`**: Binary trees are used to represent hierarchical structures like file systems, organization charts, and family trees.  
+>> **`Expression Evaluation`**: Binary expression trees are used to parse and evaluate mathematical expressions.
