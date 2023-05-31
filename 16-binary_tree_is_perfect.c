@@ -51,10 +51,9 @@ size_t binary_tree_height(const binary_tree_t *tree)
 	/*
 	 * ternary operator condition ? expr1 : expr2 check.
 	 * if left height > right height and if it evaluates to true,
-	 *	returns left_height, otherwise it returns right_height.
+	 *	returns len_left, else returns len_right(right height)
 	 * either result is added to 1 and,
 	 *	returned as the final height of the tree.
 	 */
-
 	return (1 + (len_left > len_right ? len_left : len_right));
 }
